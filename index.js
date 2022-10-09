@@ -12,4 +12,4 @@ const loggerRequest = (req, res, next) => {
 	);
 };
 
-export default loggerRequest;
+module.exports = loggerRequest;
