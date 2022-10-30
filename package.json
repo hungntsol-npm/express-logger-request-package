@@ -1,5 +1,5 @@
 {
-	"name": "logger-request-express",
+	"name": "@hungntsol/logger-request-express",
 	"version": "1.1.0",
 	"description": "",
 	"main": "index.js",
